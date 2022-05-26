@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FOSISLANDBBQ20210125142004" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\User\\Desktop\\FOS_ISLAND_BBQ\ -URL\ Path\ Solved\\FOS_ISLAND_BBQ\ -New\ Working\\FOS_ISLAND_BBQ\ -\ Copy1\\FOS_ISLAND_BBQ\ -\ Copy\\FOS_ISLAND_BBQ\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="FOS_ISLAND_BBQ.Data.FOS_ISLAND_BBQContext" description="" value="Data Source=tcp:fos-island-bbqdbserver.database.windows.net,1433;Initial Catalog=FOS_ISLAND_BBQ_db;User Id=FOS_ISLAND_BBQ@fos-island-bbqdbserver;Password=00112233Mm@" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\User\\Desktop\\FOS_ISLAND_BBQ\ -URL\ Path\ Solved\\FOS_ISLAND_BBQ\ -New\ Working\\FOS_ISLAND_BBQ\ -\ Copy1\\FOS_ISLAND_BBQ\ -\ Copy\\FOS_ISLAND_BBQ\\obj\\Release\\netcoreapp2\.1\\PubTmp\\EFSQLScripts\\FOS_ISLAND_BBQ\.Data\.FOS_ISLAND_BBQContext\.sql$" />
+  </parameter>
+  <parameter name="FOS_ISLAND_BBQ.Data.FOS_ISLAND_BBQMenuContext" description="" value="Data Source=tcp:fos-island-bbqdbserver.database.windows.net,1433;Initial Catalog=FOS_ISLAND_BBQ_db;User Id=FOS_ISLAND_BBQ@fos-island-bbqdbserver;Password=00112233Mm@" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\User\\Desktop\\FOS_ISLAND_BBQ\ -URL\ Path\ Solved\\FOS_ISLAND_BBQ\ -New\ Working\\FOS_ISLAND_BBQ\ -\ Copy1\\FOS_ISLAND_BBQ\ -\ Copy\\FOS_ISLAND_BBQ\\obj\\Release\\netcoreapp2\.1\\PubTmp\\EFSQLScripts\\FOS_ISLAND_BBQ\.Data\.FOS_ISLAND_BBQMenuContext\.sql$" />
+  </parameter>
+</parameters>

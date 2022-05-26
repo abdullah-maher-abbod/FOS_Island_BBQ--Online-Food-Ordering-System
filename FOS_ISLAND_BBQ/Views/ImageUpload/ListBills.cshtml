@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "ListBills";
+}
+
+<h2>List of Bills</h2>
+
+<ul>
+    @*@foreach(var item in Model)
+    {
+        <li>@item</li> 
+    }*@
+
+    <br/>
+    <br/>
+    <ul>
+        @foreach (var item in Model)
+        {
+    
+            string[] imagearray = item.Split("#");
+
+            <li>
+                
+                    <img src="@imagearray[1]" width="200" height="300" />
+                    <label style="color: red">@imagearray[0]</label>
+                    <a asp-area="@imagearray[0]" asp-action="DownloadImages">Download Image</a>
+                    <a asp-area="@imagearray[0]" asp-action="DeleteImages">Delete Image</a>
+                
+
+            </li>
+            <br />
+  
+        }
+
+    </ul>
+
+
+
+
+</ul>
+

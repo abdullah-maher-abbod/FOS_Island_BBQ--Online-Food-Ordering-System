@@ -1,0 +1,65 @@
+﻿@model IEnumerable<FOS_ISLAND_BBQ.Models.UploadBills>
+@using Microsoft.AspNetCore.Identity
+@using FOS_ISLAND_BBQ.Areas.Identity.Data
+@inject SignInManager<FOS_ISLAND_BBQUser> SignInManager
+@inject UserManager<FOS_ISLAND_BBQUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Upload Bills</h2>
+
+<p>
+    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+        <a asp-action="Create" style="font-family:'Comic Sans MS'"> <img src="~/images/Addbtn.jpg" width="20" /> Upload New</a>
+    }
+
+</p>
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.imageURL)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a href="@item.imageURL">@item.name</a>
+                    
+                </td>
+                <td>
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+
+                        <a asp-action="Edit" asp-route-id="@item.id">
+                            <img src="~/images/edit.jpg" width="20px" />
+                            <br />
+                        </a>
+                        <br />
+                        <a asp-action="Delete" asp-route-id="@item.id"><img src="~/images/Delete.png" width="20px" /></a>
+                        <br />}
+                    <br />
+                    <a asp-action="Details" asp-route-id="@item.id">
+                        <img src="~/images/details.png" width="20px" />
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (ViewBag.content != null)
+{
+    <script> alert("@ViewBag.content");</script>
+}

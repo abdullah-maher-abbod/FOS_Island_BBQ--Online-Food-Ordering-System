@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOS_ISLAND_BBQ", "FOS_ISLAND_BBQ\FOS_ISLAND_BBQ.csproj", "{D197E7EE-2C07-4F1C-8D4C-BEF475EDE34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D197E7EE-2C07-4F1C-8D4C-BEF475EDE34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D197E7EE-2C07-4F1C-8D4C-BEF475EDE34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D197E7EE-2C07-4F1C-8D4C-BEF475EDE34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D197E7EE-2C07-4F1C-8D4C-BEF475EDE34C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3EF581-E6D4-4EF5-9E1C-7547474B9367}
+	EndGlobalSection
+EndGlobal

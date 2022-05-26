@@ -1,0 +1,35 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "ProcessMsgResult";
+}
+<script src="~/js/FeedbackJS.js"></script>
+<link href="~/css/FeedbackTable.css" rel="stylesheet" />
+
+<hr />
+
+<h2>Customers Feedback</h2>
+<div class="table-responsive">
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Feedback</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                @foreach (var v in Model)
+                {
+                    string[] split = v.Split(",");
+                <tr>
+                    <td>@split[0]</td>
+                    <td>@split[1]</td>
+                    <td>@split[2]</td>
+                    <br />
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+

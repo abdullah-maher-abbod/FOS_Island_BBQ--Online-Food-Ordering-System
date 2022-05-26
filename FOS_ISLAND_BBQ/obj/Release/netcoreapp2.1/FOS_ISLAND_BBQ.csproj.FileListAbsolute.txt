@@ -1,0 +1,142 @@
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.FOSISLANDBBQ20210125142004 - Web Deploy.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\mssql1.arm.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\mssql2.arm.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\profile.arm.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\local\storage1.arm.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.deps.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.runtimeconfig.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.runtimeconfig.dev.json
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.dll
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.pdb
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.dll
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.pdb
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.AssemblyInfo.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.TagHelpers.input.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.TagHelpers.output.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorCoreGenerate.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\Index.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\ProcessMsg.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\ProcessMsgResult.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\submitefeedbackAsync.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\createfosblobContainer.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\Index.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\ListImages.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.pdb
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.dll
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.pdb
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.genruntimeconfig.cache
+C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csproj.CopyComplete
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.FOSISLANDBBQ20210125142004 - Web Deploy.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\mssql1.arm.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\mssql2.arm.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\FOSISLANDBBQ20210125142004 - Web Deploy\profile.arm.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\local\storage1.arm.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.deps.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.runtimeconfig.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.runtimeconfig.dev.json
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.dll
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.pdb
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.dll
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\bin\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.pdb
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.AssemblyInfo.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.TagHelpers.input.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.TagHelpers.output.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorCoreGenerate.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\ProcessMsg.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\ProcessMsgResult.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\FeedbackServiceBus\submitefeedbackAsync.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\createfosblobContainer.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\ImageUpload\ListBills.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadAdveristments\Create.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadAdveristments\Delete.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadAdveristments\Details.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadAdveristments\Edit.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadAdveristments\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadBills\Create.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadBills\Delete.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadBills\Details.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadBills\Edit.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\UploadBills\Index.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.Views.pdb
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.dll
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.pdb
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.genruntimeconfig.cache
+C:\Users\User\Desktop\UC3F2005SE\DDAC\FOS_ISLAND_BBQ listpicutre\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\FOS_ISLAND_BBQ.csproj.CopyComplete

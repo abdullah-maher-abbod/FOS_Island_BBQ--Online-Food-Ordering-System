@@ -1,0 +1,29 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "https://localhost:44348/",
+      "sslPort": 44348
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "AZURE_USERNAME": "TP049908@mail.apu.edu.my",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "FOS_ISLAND_BBQ": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "AZURE_USERNAME": "TP049908@mail.apu.edu.my",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    }
+  }
+}

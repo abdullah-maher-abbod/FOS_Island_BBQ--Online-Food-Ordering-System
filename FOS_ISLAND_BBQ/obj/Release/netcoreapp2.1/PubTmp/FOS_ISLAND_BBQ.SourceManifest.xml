@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\FOS_ISLAND_BBQ.Data.FOS_ISLAND_BBQContext.sql" />
+  <dbfullsql path="C:\Users\User\Desktop\FOS_ISLAND_BBQ -URL Path Solved\FOS_ISLAND_BBQ -New Working\FOS_ISLAND_BBQ - Copy1\FOS_ISLAND_BBQ - Copy\FOS_ISLAND_BBQ\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\FOS_ISLAND_BBQ.Data.FOS_ISLAND_BBQMenuContext.sql" />
+</sitemanifest>

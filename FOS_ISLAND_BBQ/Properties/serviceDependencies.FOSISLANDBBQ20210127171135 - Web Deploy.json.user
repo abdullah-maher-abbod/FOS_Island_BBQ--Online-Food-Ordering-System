@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2021-01-27T09:16:56.8394735Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-01-27T09:16:33.1598496Z"
+    }
+  },
+  "parameters": {
+    "mssql2.subscriptionId": {
+      "Type": "subscription",
+      "Value": "10cfeea2-48e1-40ad-a6a2-b94f6d315108"
+    },
+    "mssql2.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "FOSISLANDBBQ"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "10cfeea2-48e1-40ad-a6a2-b94f6d315108"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "FOSISLANDBBQ"
+    }
+  }
+}

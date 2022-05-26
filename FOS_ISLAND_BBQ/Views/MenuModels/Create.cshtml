@@ -1,0 +1,62 @@
+﻿@model FOS_ISLAND_BBQ.Models.MenuModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>MenuModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <centre>
+            <h1>Upload Food Image Page</h1>
+            <form method="post" enctype="multipart/form-data" asp-controller="UploadFoodImages" asp-action="Index">
+                <p> Upload one or more food image using this form:</p>
+                <input type="file" name="files" multiple />
+                <br />
+                <br />
+                <input type="submit" value="Upload" />
+
+
+            </form>
+
+
+        </centre>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="imageURL" class="control-label"></label>
+                <input asp-for="imageURL" class="form-control" />
+                <span asp-validation-for="imageURL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

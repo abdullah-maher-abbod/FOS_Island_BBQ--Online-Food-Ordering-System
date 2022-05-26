@@ -1,0 +1,55 @@
+﻿@model FOS_ISLAND_BBQ.Models.UploadBills
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Upload</h2>
+
+@{
+    <centre>
+        <h1>Upload Advertistment Page</h1>
+        <br />
+        <form method="post" enctype="multipart/form-data" asp-controller="UploadAds" asp-action="Index">
+            <p>Upload one or more Advertistment using this form:</p>
+            <br />
+            <input type="file" name="files" multiple />
+            <br />
+            <br />
+            <input type="submit" value="Upload" />
+        </form>
+    </centre>
+
+}
+@if (ViewBag.content != null)
+{
+    <script> alert("@ViewBag.content");</script>
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="imageURL" class="control-label"></label>
+                <input asp-for="imageURL" class="form-control" />
+                <span asp-validation-for="imageURL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
