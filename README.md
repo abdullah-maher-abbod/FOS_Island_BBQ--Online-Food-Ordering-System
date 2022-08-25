@@ -29,7 +29,7 @@ If the information of the item needs to be changed, the admins can press on the 
 
 In addition, they are also able to delete items from the menu via the trash can “Delete” icon.
 ![image](https://user-images.githubusercontent.com/53852691/186570006-e67d41d4-6e5e-4ba8-991c-6c92203c6229.png)
-
+ 
 3. Feedback Tab
 By pressing the Feedback tab, users have the option to send or receive feedback.
 ![image](https://user-images.githubusercontent.com/53852691/186570030-7a0ff20a-d1b4-4e2d-a9b9-2d4969d80687.png)
